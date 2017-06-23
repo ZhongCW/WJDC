@@ -5,11 +5,7 @@
     <welcome-file>index.html</welcome-file>
     <welcome-file>index.htm</welcome-file>
     <welcome-file>index.jsp</welcome-file>
-<<<<<<< HEAD
     <welcome-file>testdefault.html</welcome-file>
     <welcome-file>testdefault.htm</welcome-file>
     <welcome-file>testdefault.jsp</welcome-file>
-=======
->>>>>>> 257268d02f49a54177080d8312b3ebb86b8d1198
-  </welcome-file-list>
-</web-app>
+  </welcome-file-list></web-app>
